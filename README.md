@@ -11,7 +11,6 @@
 | ----- | ----- |
 |S:W 문제해결 기본 1일차 - View|[링크](./SWEA/D3/S%3AW%20%EB%AC%B8%EC%A0%9C%ED%95%B4%EA%B2%B0%20%EA%B8%B0%EB%B3%B8%201%EC%9D%BC%EC%B0%A8%20-%20View/SW%EB%AC%B8%EC%A0%9C%ED%95%B4%EA%B2%B0%20%EA%B8%B0%EB%B3%B8%201%EC%9D%BC%EC%B0%A82.py)|
 ## 📚 백준
-|Bronze|[링크](./%EB%B0%B1%EC%A4%80/Bronze/.DS_Store)|
 ### 🚀 Bronze
 | 문제번호 | 링크 |
 | ----- | ----- |
