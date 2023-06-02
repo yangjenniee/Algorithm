@@ -2,16 +2,15 @@
 # 백준 & 프로그래머스 문제 풀이 리스트
 
 
-## 📚 SWEA
+### 🚀 SWEA
+| 문제번호 | 링크 |
+| ----- | ----- |
+|D3|[링크](./SWEA/D3/.DS_Store)|
 ### 🚀 D3
 | 문제번호 | 링크 |
 | ----- | ----- |
 |S:W 문제해결 기본 1일차 - View|[링크](./SWEA/D3/S%3AW%20%EB%AC%B8%EC%A0%9C%ED%95%B4%EA%B2%B0%20%EA%B8%B0%EB%B3%B8%201%EC%9D%BC%EC%B0%A8%20-%20View/SW%EB%AC%B8%EC%A0%9C%ED%95%B4%EA%B2%B0%20%EA%B8%B0%EB%B3%B8%201%EC%9D%BC%EC%B0%A82.py)|
-### 🚀 D4
-| 문제번호 | 링크 |
-| ----- | ----- |
-|S:W 문제해결 기본 4일차 - 괄호 짝짓기|[링크](./SWEA/D4/1218.%20%5BS%3AW%20%EB%AC%B8%EC%A0%9C%ED%95%B4%EA%B2%B0%20%EA%B8%B0%EB%B3%B8%5D%204%EC%9D%BC%EC%B0%A8%20-%20%EA%B4%84%ED%98%B8%20%EC%A7%9D%EC%A7%93%EA%B8%B0.py)|
-
+|D4|[링크](./SWEA/D4/1218.%20%5BS%3AW%20%EB%AC%B8%EC%A0%9C%ED%95%B4%EA%B2%B0%20%EA%B8%B0%EB%B3%B8%5D%204%EC%9D%BC%EC%B0%A8%20-%20%EA%B4%84%ED%98%B8%20%EC%A7%9D%EC%A7%93%EA%B8%B0.py)|
 ## 📚 백준
 ### 🚀 Bronze
 | 문제번호 | 링크 |
@@ -122,7 +121,6 @@
 |2563. 색종이|[링크](./%EB%B0%B1%EC%A4%80/Silver/2563.%E2%80%85%EC%83%89%EC%A2%85%EC%9D%B4/README.md)|
 |2941. 크로아티아 알파벳|[링크](./%EB%B0%B1%EC%A4%80/Silver/2941.%E2%80%85%ED%81%AC%EB%A1%9C%EC%95%84%ED%8B%B0%EC%95%84%E2%80%85%EC%95%8C%ED%8C%8C%EB%B2%B3/README.md)|
 |9012. 괄호|[링크](./%EB%B0%B1%EC%A4%80/Silver/9012.%E2%80%85%EA%B4%84%ED%98%B8/README.md)|
-
 ## 📚 프로그래머스
 ### 🚀 lv1
 | 문제번호 | 링크 |
